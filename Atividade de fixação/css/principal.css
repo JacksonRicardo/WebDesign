@@ -1,0 +1,31 @@
+
+body{
+	margin: 0; /* */
+	border: 1.2px solid white;
+	border-top: ;
+	border-left: ;
+	border-right: ;
+	border-bottom: ;
+	padding: 3%;
+	background-color: #01172c;
+	background-image: url("../imagens/11831.jpg");
+	background-position: 80% 20%;
+	background-repeat: no-repeat;
+	font-size: 1.4em;
+	color: white;
+	font-family: "trebuchet ms", arial, verdana;
+}
+
+h1{
+	font-size: 5em;
+	font-weight: normal;
+	font-family: georgian, garamond;
+	font-style: italic;
+	
+}
+ol li{
+	list-style-image: url("../imagens/icon.png");
+	
+
+	
+}
